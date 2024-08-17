@@ -157,9 +157,6 @@ Soaring through the clouds with **AWS Glue** and **S3**, I’m your cloud captai
     <td><a href="https://github.com/aifreak00/End_To_End_Credit_Decision_Model.git" target="_blank" rel="noopener noreferrer">💳 End_To_End_Credit_Decision_Model</a></td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/19IybKBsFXGINjV4YPY-85OxrO5wGe_mB/view" target="_blank" rel="noopener noreferrer">🤖 Generative AI CHATBOT(LLM)</a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/aifreak00/END-TO-END-US_VISA_PREDICTION-MLOPS-.git" target="_blank" rel="noopener noreferrer">   🗽END-TO-END-US_VISA_PREDICTION-MLOPS-</a></td>
   </tr>
   <tr>
